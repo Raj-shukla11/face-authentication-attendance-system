@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated model files
+face_model.yml
+label_map.txt
+
+# Attendance data
+attendance.csv
+
+# Dataset images (optional - usually large)
+dataset/
+
+# VS Code settings
+.vscode/
